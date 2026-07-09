@@ -1,0 +1,64 @@
+# macOS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Config app caches / junk
+.config/LCEDA-Pro/
+.config/StardewValley/
+.config/github-copilot/
+.config/texstudio/
+.config/xbuild/
+.config/OpenRGB/
+.config/jgit/
+
+# Home directory tool caches and data
+.cache/
+.cargo/
+.docker/
+.conda/
+.anaconda/
+.android/
+.gradle/
+.npm/
+.nuget/
+.m2/
+.local/
+.rustup/
+.pyenv/
+.oh-my-zsh/
+.claude/
+.copilot/
+.codex/
+.gemini/
+.junie/
+.bun/
+.fnm/
+.nvm/
+.sdkman/
+.gvm/
+.go/
+.orbstack/
+.vscode/
+.vscode-shared/
+.Trash/
+.ssh/
+.bits-ut/
+.lark-cli/
+.agentbuddy/
+
+# History files
+.zsh_history
+.bash_history
+.mysql_history
+.python_history
+.rediscli_history
+.viminfo
+.viminfo.tmp
+.viminfy.tmp
+.node_repl_history
+.wget-hsts
+
+# Zsh compdump
+.zcompdump*
